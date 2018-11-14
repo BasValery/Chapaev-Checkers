@@ -1,0 +1,15 @@
+﻿  Source.cpp
+c:\users\valery\desktop\портфолио\chekers\code\source.cpp(1): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  PlayingField.cpp
+c:\users\valery\desktop\портфолио\chekers\code\playingfield.h(3): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Menu.cpp
+c:\users\valery\desktop\портфолио\chekers\code\menu.h(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  HumanPlayer.cpp
+c:\users\valery\desktop\портфолио\chekers\code\player.h(2): fatal error C1083: Не удается открыть файл включение: SFML\Graphics.hpp: No such file or directory,
+  Game.cpp
+c:\users\valery\desktop\портфолио\chekers\code\game.h(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Computer.cpp
+c:\users\valery\desktop\портфолио\chekers\code\player.h(2): fatal error C1083: Не удается открыть файл включение: SFML\Graphics.hpp: No such file or directory,
+  Checker.cpp
+c:\users\valery\desktop\портфолио\chekers\code\checker.h(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Создание кода...
